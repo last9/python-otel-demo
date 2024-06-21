@@ -1,0 +1,4 @@
+flask<3
+werkzeug<3
+opentelemetry-instrumentation
+opentelemetry-exporter-otlp
